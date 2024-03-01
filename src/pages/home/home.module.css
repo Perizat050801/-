@@ -1,0 +1,95 @@
+/* .home{ */
+    /* background-image: url(./../../assets/Download\ wallpapers\ Nike\,\ logo\,\ white\ silk\,\ emblem\ of\ Nike\ for\ desktop\ free_\ Pictures\ for\ desktop\ free.jpg); */
+/* } */
+
+.homeGifImage{
+    background-image: url(./../../assets/gifka.prosto.gif);
+    width: 1000px;
+    height: 500px;
+    padding-left: 460px;
+}
+.home{
+    background-color: whitesmoke;
+
+}
+
+.imgProducts{
+    display: flex;
+    justify-content: center;
+    
+}
+.imgProduct{
+    justify-content: center;
+    display: flex;
+    box-shadow: -2px 10px 17px 0px rgba(0, 0, 0, 1);
+}
+
+.text{
+    text-shadow: black;
+    max-width: 1500px;
+    font-style: Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.text2{
+    text-shadow: -3px 4px 18px rgba(66, 68, 90, 1);
+    max-width: 1500px;
+    font-style: Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 60px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+
+.text3{
+    text-shadow: -3px 4px 18px rgba(66, 68, 90, 1);
+    max-width: 1500px;
+    font-style: Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 60px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.topProduct{
+    text-shadow: -3px 4px 18px rgba(66, 68, 90, 1);
+    max-width: 1500px;
+    font-style: Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 60px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+
+
+.homeapi{
+    display: flex;
+    flex-Wrap: wrap;
+    gap:40px;
+    padding-Top: 100px;
+    align-items:center;
+    justify-content: center;
+   /*  background-color:aqua; */
+}
+
+
+
+
+

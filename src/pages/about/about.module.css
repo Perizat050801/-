@@ -1,0 +1,9 @@
+.aboutImage{
+    background-image: url(./../../assets/fotka2.png);
+    width: 987px;
+    height: 300px;
+    padding-left: 480px;
+    display: flex;
+    justify-content: center;
+}
+
